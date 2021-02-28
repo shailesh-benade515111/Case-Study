@@ -1,6 +1,6 @@
 # Case-Study
 # Job openings form (create_job.html): 
-1.page title: Enter Job Data  
+    1.page title: Enter Job Data  
 
 ## fields:      
     1.title: text field*    
