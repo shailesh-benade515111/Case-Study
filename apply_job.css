@@ -1,0 +1,51 @@
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    text-align: center;
+    padding: 40px 100px;
+    color: cornsilk;
+    background-color: cadetblue;
+}
+
+.footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50%;
+    text-align: center;
+    padding: 10px 50px;
+    color: cornsilk;
+    background-color: cadetblue;
+}
+
+.apply_job {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    background-color: aquamarine;
+}
+
+.form label::after {
+    
+    content: " *";
+    color: rgb(246, 2, 2);
+}
+
+.form label {
+    padding: 10px 100px;
+    text-align: center;
+    align-items: initial;
+}
+
+.form input {
+    text-align: center;
+    padding: 10px 100px;
+}
+
+.form select {
+    text-align: center;
+    width: 78%;
+    padding: 10px 100px;
+}
+
+.form textarea {
+    width: 33%;
+    padding: 30px 100px;
+}
