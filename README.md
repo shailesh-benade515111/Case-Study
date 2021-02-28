@@ -1,8 +1,8 @@
 # Case-Study
-#Job openings form (create_job.html): 
+# Job openings form (create_job.html): 
 1.page title: Enter Job Data  
 
-##fields:      
+## fields:      
 1.title: text field*    
 2.type: drop down (select)*    
 3.department: drop down (select)*      
