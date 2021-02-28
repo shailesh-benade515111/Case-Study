@@ -3,7 +3,7 @@
 1.page title: Enter Job Data  
 
 ## fields:      
-1.title: text field*    
+* title: text field*    
 2.type: drop down (select)*    
 3.department: drop down (select)*      
 4.country: drop down (select)*    
@@ -14,3 +14,4 @@
 9.javascript validations:       
     - validate that required fields are not blank when submit is clicked
     - validate that date value is valid and not greater than current date
+
