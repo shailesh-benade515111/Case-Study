@@ -11,8 +11,8 @@
     6.opening date: date field (fill with current date)*     
     7.submit button     
     8.javascript validations:       
-           * validate that required fields are not blank when submit is clicked
-           * validate that date value is valid and not greater than current date
+           - validate that required fields are not blank when submit is clicked
+           - validate that date value is valid and not greater than current date
 
 # Apply for Jobs form (apply_job.html)  
     1.Page title: Apply for Jobs  fields:   - 
@@ -38,8 +38,8 @@
     19.[submit] button  * = required fields    
     20.javascript validations:       
     
-            *validate that required fields are not blank when submit is clicked      
-            *validate that numberic values are valid      
-            *if possible add validations for phone number and email  
+            - validate that required fields are not blank when submit is clicked      
+            - validate that numberic values are valid      
+            - if possible add validations for phone number and email  
 
-* Note: Use CSS stylesheet file to define classes for various texts (headers, field names, hints..) and input fields 
+*Note: Use CSS stylesheet file to define classes for various texts (headers, field names, hints..) and input fields 
