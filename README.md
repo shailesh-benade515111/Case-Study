@@ -16,7 +16,7 @@
 
 # Apply for Jobs form (apply_job.html)  
     1.Page title: Apply for Jobs  fields:   - 
-    ## Fields
+## Fields
     1.first name: text field*    
     2.last name: text field*    
     3.email: text field*    
